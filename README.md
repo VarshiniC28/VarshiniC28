@@ -16,7 +16,7 @@
 ---
 
 - 👨‍💻 Projects: [GitHub Portfolio](https://github.com/VarshiniC28/GECH_VARSHINIC_2025.git)  
-- 📄 Internship: *Full Stack Development @ ParvaM ConsultTeach Pvt Ltd, Bangalore*
+- 📄 Internship: *Full Stack Development @ ParvaM ConsultTech Pvt Ltd, Bangalore*
 
 ---
 - ⚡ **Fun Fact**: I love turning plain paper into art — through sketching, painting, or crafting intricate origamis.
@@ -45,7 +45,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center" style="background-color:#0d1117; border-radius: 10px;">
 

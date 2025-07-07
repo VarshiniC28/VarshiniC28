@@ -41,6 +41,9 @@
 </p>
 
 ---
+- ⚡ **Fun Fact**: I love turning plain paper into art — through sketching, painting, or crafting intricate origamis.
+  
+---
 
 ### GitHub Stats
 
@@ -65,5 +68,3 @@
 </div>
 
 ---
-- ⚡ **Fun Fact**: I love turning plain paper into art — through sketching, painting, or crafting intricate origamis.
---

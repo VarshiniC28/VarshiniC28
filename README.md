@@ -19,9 +19,6 @@
 - 📄 Internship: *Full Stack Development @ ParvaM ConsultTech Pvt Ltd, Bangalore*
 
 ---
-- ⚡ **Fun Fact**: I love turning plain paper into art — through sketching, painting, or crafting intricate origamis.
-
----
 
 ### 🛠️ Languages & Tools
 
@@ -68,3 +65,5 @@
 </div>
 
 ---
+- ⚡ **Fun Fact**: I love turning plain paper into art — through sketching, painting, or crafting intricate origamis.
+--

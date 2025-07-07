@@ -15,7 +15,7 @@
 - **Spring Boot**
 ---
 
-- 👨‍💻 Projects: [ProjectVerse on GitHub](https://github.com/VarshiniC28/MyDevprojects-hub.git)  
+- 👨‍💻 Projects: [MyFirstRepo](https://github.com/VarshiniC28/GECH_VARSHINIC_2025.git) or on my [ProjectVerse-Repo](https://github.com/VarshiniC28/MyDevprojects-hub.git)  
 - 📄 Internship: *Full Stack Development @ ParvaM ConsultTech Pvt Ltd, Bangalore*
 
 ---

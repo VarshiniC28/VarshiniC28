@@ -9,7 +9,7 @@
 
 - 🌱 Currently learning:
 - **React.js**
-- **Node.js**
+- **AWS**
 - **PHP**
 - **DSA**
 - **Spring Boot**

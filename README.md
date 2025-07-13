@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varshini C</h1>
-<h3 align="center"> Aspiring Software Developer Engineer| Exploring New Tech Every Day</h3>
+<h3 align="center"> Aspiring Software Dev Engineer| Exploring New Tech Every Day</h3>
 
 ---
 
